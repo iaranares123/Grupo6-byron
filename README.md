@@ -1,2 +1,3 @@
 # Grupo6-byron História
-Em 2084, a inteligência artificial que gerenciava a estação espacial enviou uma única mensagem para a Terra: 'Não mandem mais ninguém'
+
+Era uma vez um pato chamado Rocky. Muito curioso, ele adorava descobrir lugares novos e viver grandes aventuras. Até que um dia, enquanto nadava tranquilamente pelo lago, Rocky escutou os outros patos sussurrando sobre uma floresta misteriosa que guardava um tesouro.
